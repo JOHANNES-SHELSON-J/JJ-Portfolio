@@ -137,7 +137,7 @@ export default function Home() {
     initial={{ opacity: 0, y: -50 }}
     animate={{ opacity: 1, y: 0 }}
     transition={{ duration: 0.8 }}
-    className="text-5xl font-extrabold text-blue-600 dark:text-blue-400"
+    className="text-5xl font-extrabold bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent drop-shadow-lg uppercase tracking-wide"
   >
     Hello, I'm Johannes Johnson
     </motion.h1>
