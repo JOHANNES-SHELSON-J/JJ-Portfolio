@@ -163,7 +163,7 @@ export default function Home() {
 {/* Download Resume Button */}
 <div className="mt flex justify-center">
   <a
-    href="/Johannes_Resume.pdf"
+    href="/Johannes_Johnson_Resume.pdf"
     download
     className="group inline-flex items-center gap-2 bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-700 hover:to-blue-600 text-white font-semibold py-2.5 px-7 rounded-full shadow-lg transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-400"
     aria-label="Download Resume"
