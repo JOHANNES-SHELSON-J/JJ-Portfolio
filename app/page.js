@@ -153,7 +153,7 @@ export default function Home() {
   {/* Hero Photo */}
   <div className="mt-4 flex justify-center" id="hero-photo" data-aos="fade-up">
     <img
-      src="/Cut Image.jpg"
+      src="/Johannes_Image_Guitar.jpg"
       alt="My Photo"
       className="w-65 h-65 object-cover rounded-full border-4 border-blue-500 shadow-xl hover:shadow-2xl transition duration-300"
     />
