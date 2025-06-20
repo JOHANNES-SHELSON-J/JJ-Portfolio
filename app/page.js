@@ -155,7 +155,7 @@ export default function Home() {
     <img
       src="/Johannes_Image_Guitar.jpg"
       alt="My Photo"
-      className="w-65 h-65 object-cover rounded-full border-4 border-blue-500 shadow-xl hover:shadow-2xl transition duration-300"
+      className="w-65 h-65 object-contain rounded-full border-4 border-blue-500 shadow-xl hover:shadow-2xl transition duration-300"
     />
   </div>
 </section>
