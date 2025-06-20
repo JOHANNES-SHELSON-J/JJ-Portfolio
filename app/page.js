@@ -151,13 +151,13 @@ export default function Home() {
   Passionate and detail-oriented Computer Information Systems student with a strong foundation in database management, web development, and software engineering. Always eager to learn new technologies and contribute to innovative projects. Looking forward to opportunities where I can apply my technical skills and grow professionally.
 </motion.p> 
   {/* Hero Photo */}
-  <div className="mt-8 flex justify-center" id="hero-photo" data-aos="fade-up">
-    <img
-      src="/Johannes_Image_Guitar.jpg"
-      alt="My Photo"
-      className="w-65 h-65 object-contain rounded-full border-4 border-blue-500 shadow-xl hover:shadow-2xl transition duration-300"
-    />
-  </div>
+<div className="mt-8 flex justify-center" style={{ overflow: 'visible' }}>
+  <img
+    src="/Johannes_Image_Guitar.jpg"
+    alt="My Photo"
+    className="w-64 h-64 object-cover rounded-full border-4 border-blue-500 shadow-xl hover:shadow-2xl transition duration-300 mt-2"
+  />
+</div>
 </section>
 
 {/* Download Resume Button */}
